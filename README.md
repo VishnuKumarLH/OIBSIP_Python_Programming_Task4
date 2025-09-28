@@ -52,6 +52,8 @@ python weather_app.py
 ```
 OIBSIP_Python_Programming_Task4/
 │
+|── gui.py              # gui for project
+|── main.py             # connent gui and whether app
 ├── weather_app.py      # Main Python script
 ├── README.md           # Project documentation
 └── demo_img.png        # Demo screenshot / thumbnail
