@@ -24,7 +24,7 @@ Example:
 
 ## 🖼️ Demo Video
 
-[![Watch the Demo](./demo_img)]()
+[![Watch the Demo](./demo_img.png)]()
 
 
 ## 🛠️ Installation & Usage
