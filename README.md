@@ -24,7 +24,7 @@ Example:
 
 ## 🖼️ Demo Video
 
-[![Watch the Demo](./demo_img.png)]()
+[![Watch the Demo](./demo_img.png)](https://www.linkedin.com/posts/vishnukumar-l-h-ba6239342_oasisinfobyte-python-internship-activity-7378089759480397824-EA58?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFXR7m4Bh6OFFmWyra2rkh9quq-_Sn7YCFg&utm_campaign=copy_link)
 
 
 ## 🛠️ Installation & Usage
